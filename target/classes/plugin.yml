@@ -1,6 +1,0 @@
-name: CoinAPI
-version: 1.0
-author: Kevloe
-main: de.kevloe.coins.CoinAPI
-commands:
-  coins:
